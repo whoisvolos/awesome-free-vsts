@@ -2,7 +2,8 @@
 My humble collection of free VST plugins - instruments, synth, effects, sequencers and more
 
 ## SYNTHS:
- - Surge XT
+- [VCV Rack 2](https://vcvrack.com) - Топовый симулятор модульного синтезатора, 3000+ модулей, мало грузит процессор. Фактически может заменить ВСЕ синтезаторы, что описаны ниже, но необходимо понимание основ синтеза. Standalone-версия бесплатная, для версии VST придется докупить. На Youtube есть [автор](https://www.youtube.com/channel/UCuWKHSHTHMV_nVSeNH4gYAg), снимающий видосики по этому синту, там просто тонна обучающих видео.
+- Surge XT
 - Odin 2
 - Helm
 - Vital Audio
@@ -20,7 +21,7 @@ My humble collection of free VST plugins - instruments, synth, effects, sequence
 - Voltage Modular Nucleus - a-la VCV Rack, не знаю зачем, но пусть будет
 - AAS Player - a-la Arturia Lab, but without controls
  - Pendulate - weird synth
-- Synplant 2 - AI-синт, оч странноватый. Берет семплы и эволвит их. Плюс умеет семпл раскладывать "обратно" в осциляторы, фильры и проч (как disassembly)
+- Synplant 2 - AI-синт, оч странноватый. Берет семплы и эволвит их. Плюс умеет семпл раскладывать "обратно" в осциляторы, фильтры и проч (как disassembly)
 
 ## DRUMS
 SSD5 drums plugin
