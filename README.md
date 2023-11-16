@@ -3,10 +3,10 @@ My humble collection of free VST plugins - instruments, synth, effects, sequence
 
 ## SYNTHS:
 - [VCV Rack 2](https://vcvrack.com) - Топовый симулятор модульного синтезатора, 3000+ модулей, мало грузит процессор. Фактически может заменить ВСЕ синтезаторы, что описаны ниже, но необходимо понимание основ синтеза. Standalone-версия бесплатная, для версии VST придется докупить. На Youtube есть [автор](https://www.youtube.com/channel/UCuWKHSHTHMV_nVSeNH4gYAg), снимающий видосики по этому синту, там просто тонна обучающих видео.
-- [Surge XT](https://surge-synthesizer.github.io) - Наверное второй по функционалу после VCV Rack-а синт, сложный в управлении, но очень гибкий, огромная куча пресетов и скинов.
+- [Surge XT](https://surge-synthesizer.github.io) - Наверное второй по функционалу после VCV Rack-а синт, сложный в управлении, но очень гибкий, огромная куча пресетов и скинов. Его модули, кстати, можно найти в библиотеке модулей VCV Rack.
 - [Odin 2](https://thewavewarden.com/pages/odin-2) - Топ 1 в номинации "простой, но мощный синтезатор". Много видов осцилляторов, легок в освоении.
-- Helm
-- Vital Audio
+- [Helm](https://tytel.org/helm) - Не пробовал, но народ хвалит.
+- [Vital Audio](https://vital.audio/) - Отличный wavetable-синт с мощными возможностями именно модификации вейвтейблов, напоминает Serum.
 - U-he Tyrell N6
 - CollaB3 - Hammond B3
 - Love FI lite - лоуфайный саунд инструмент
