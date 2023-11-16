@@ -16,7 +16,7 @@
 - [Sonicbits Exakt Lite](https://www.sonicbits.com/exakt-lite.html) - FM-синт для простых людей. Как [Dexed](https://asb2m10.github.io/dexed), только проще.
 - [OB-Xd](https://www.discodsp.com/obxd) - Оберхейм он и в Африке Оберхейм. [Van Halen не даст соврать](https://www.youtube.com/watch?v=SwYN7mTi6HM). Теплый плотный саунд из 80-ых.
 - [Tunefish 4](https://plugins4free.com/plugin/1836) - Якобы демосценный VST-синт, но я с трудом понимаю, какое это имеет отношение к демосцене, кроме как использование специфичных для ДС алгоритмов. Звучит интересно, сам синт довольно странный.
-- [Synth1](https://www.kvraudio.com/product/synth1-by-daichi-laboratory-ichiro-toda) - Минималистичный синт (запустится даже на картошке как сказал [Cameron](https://www.youtube.com/@VenusTheory)) от японцев. На мой взгляд звучит лоуфаешно и в стиле игр 90-х, но мне понравилось. Обладатель внушительного пресет-пака Bigtone.
+- [Synth1](https://www.kvraudio.com/product/synth1-by-daichi-laboratory-ichiro-toda) - Нетребовательный к железке синт (запустится даже на картошке, как сказал [Cameron](https://www.youtube.com/@VenusTheory)) от японцев. На мой взгляд звучит лоуфаешно и в стиле игр 90-х, но мне понравилось. Обладатель внушительного пресет-пака Bigtone.
 - [PG-8X](https://sites.google.com/site/mlvst0) - Синт инспайред бай Roland JX-8P. Довольно понятный GUI, Juno-звучание.
 - [Zebralette](https://u-he.com/products/zebralette) - Очередной синт от U-he. Использует интересный подход к синтезу (Spectral), мощные ADSR и фильтры.
 - [Voltage Modular Nucleus](https://store.cherryaudio.com/bundles/voltage-modular-nucleus) - второй модульный синт в коллекции, попроще VCV Rack, модулей меньше, но иногда меньше - не значит хуже. Хороший GUI. По сылке в гугле пишет, что стоит 29,00 $, но на самом деле бесплатен.
@@ -26,16 +26,17 @@
 ## Инструменты (семплированные звуки)
 
 ### Коллекции
-- Spitfire Labs
+- [Spitfire Labs](https://labs.spitfireaudio.com/) - Огромная коллекция фришных инструментов - пады, пианины, ударные, всякое и разное. Далее части Labs будут появляться в списках, тк я их спецом пробовал.
+- [Orchestral Tools](https://www.orchestraltools.com/) - Так же большая коллекция фришных инструментов, но требует отдельного инсталлятора а-ля Kontakt (SINEplayer).
+- [Soundpaint](https://soundpaint.com/pages/free-engine) - Большая коллекция семплированных инструментов (особенно выделяется фоно).
 - AAS Player - a-la Arturia Lab, but without controls
 
-### Пианины
-- Soundpaint
-- Claustrophobic Piano
-- Spindle
-- Glass Piano
-- Autumn Piano
-- Winter Felt Piano
+### Пианины (отдельно)
+- [Claustrophobic Piano](https://rekkerd.org/claustrophobic-piano-free-intimate-piano-instrument-by-christian-henson/) - Еще одна пианинка от Pianobook, требует Kontakt-а.
+- Spindle - Теплое пиано от [Orchestral Tools](https://www.orchestraltools.com)
+- Glass Piano - Наверное лучшая пианина от [Spitfire Labs](https://labs.spitfireaudio.com/).
+- [Autumn Piano](https://www.pianobook.co.uk/packs/autumn-piano) - Теплая пианинка, но требует Kontakt-а.
+- [Winter Felt Piano](https://www.pianobook.co.uk/stories/winter-felt-piano-free-prototype) - Хорошо и чисто звучит, но требует Kontakt-а.
 
 ### Разное
 - CollaB3 - Hammond B3
