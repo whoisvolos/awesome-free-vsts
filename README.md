@@ -1,10 +1,9 @@
 # awesome-free-vsts
 My humble collection of free VST plugins - instruments, synth, effects, sequencers and more
 
-## Everyything uncategorized
-SYNTHS:
-+ Surge XT
-+ Odin 2
+## SYNTHS:
+Surge XT
+Odin 2
 Helm
 Vital Audio
 U-he Tyrell N6
@@ -13,7 +12,7 @@ Love FI lite - лоуфайный саунд инструмент
 Tal NoiseMaker
 Dexed - Fm (Yamaha DX7)
 Sonicbits Exakt (Lite) - FM (проще dexed намного)
-+ OB-Xd
+OB-Xd
 Tunefish 4 (demoscene? weird)
 Synth1 (demoscene?)
 PG-8X (Juno)
@@ -22,11 +21,11 @@ Voltage Modular Nucleus (a-la VCV Rack)
 AAS Player (a-la Arturia Lab, but without controls)
 Pendulate (weird synth)
 Synplant 2 - AI-синт, оч странноватый. Берет семплы и эволвит их. Плюс умеет семпл раскладывать "обратно" в осциляторы, фильры и проч (как disassembly)
--------------------------------
-DRUMS
+
+## DRUMS
 SSD5 drums plugin
--------------------------------
-UNCATEGORIZED
+
+## UNCATEGORIZED
 Stochas - Markov sequencer
 https://noiseengineering.us/products/the-freequel-bundle-sinc-vereor-virt-vereor-ruina?utm_source=YouTube&utm_campaign=free+plugin+video&title=default%2520title
 http://ajaxsoundstudio.com/software/cecilia/ - glitch thing (Cecilia 5)
@@ -52,8 +51,8 @@ Surge FX - Surge synth fx separate collection
 Audioomodern: gatelab + filterstep (это самое интересное) + panflow
 PaulXStretch / Sonasaurus - растягивалка (атмосферайзер :)
 Cymatics / Dejavu - замедлитель-атмосферизатор
----------------------
-NOISE:
+
+## NOISE:
 Drifrmaker
 Emergence Granular Synth (plugin)
 https://github.com/publicsamples/Oi-Grandad
@@ -69,11 +68,11 @@ Neutone by Qosmo (AI tool)
 Soundly Place it (stereo enchancer)
 krush от tritik (биткрашер, хорош для колокольчиков)
 Cymatics / Origin - ресемплер-лоуфаер, чтоб под винтажный звук
----------------------
-CHORD PROGRESSION TOOL:
+
+## CHORD PROGRESSION TOOL:
 Hooktheory Hookpad
------------------------
-PIANOS:
+
+## PIANOS:
 Soundpaint
 Claustrophobic Piano
 Spindle
