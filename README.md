@@ -2,25 +2,25 @@
 My humble collection of free VST plugins - instruments, synth, effects, sequencers and more
 
 ## SYNTHS:
-Surge XT
-Odin 2
-Helm
-Vital Audio
-U-he Tyrell N6
-CollaB3 - хаммонд )
-Love FI lite - лоуфайный саунд инструмент
-Tal NoiseMaker
-Dexed - Fm (Yamaha DX7)
-Sonicbits Exakt (Lite) - FM (проще dexed намного)
-OB-Xd
-Tunefish 4 (demoscene? weird)
-Synth1 (demoscene?)
-PG-8X (Juno)
-Zebralette
-Voltage Modular Nucleus (a-la VCV Rack)
-AAS Player (a-la Arturia Lab, but without controls)
-Pendulate (weird synth)
-Synplant 2 - AI-синт, оч странноватый. Берет семплы и эволвит их. Плюс умеет семпл раскладывать "обратно" в осциляторы, фильры и проч (как disassembly)
+ - Surge XT
+- Odin 2
+- Helm
+- Vital Audio
+- U-he Tyrell N6
+- CollaB3 - Hammond B3
+- Love FI lite - лоуфайный саунд инструмент
+- Tal NoiseMaker - очень простой в управлении синт, по звуку напоминает Roland-ы
+- Dexed - FM (Yamaha DX7), можно даже патчи грузить от Ямахи и всякихямахо-подобных DIY-синтов
+- Sonicbits Exakt (Lite) - FM (проще dexed намного)
+- OB-Xd - Оберхейм фряшный
+- Tunefish 4 (demoscene? weird)
+- Synth1 - минималистичный синт от японцев
+- PG-8X - Juno
+- Zebralette
+- Voltage Modular Nucleus - a-la VCV Rack, не знаю зачем, но пусть будет
+- AAS Player - a-la Arturia Lab, but without controls
+ - Pendulate - weird synth
+- Synplant 2 - AI-синт, оч странноватый. Берет семплы и эволвит их. Плюс умеет семпл раскладывать "обратно" в осциляторы, фильры и проч (как disassembly)
 
 ## DRUMS
 SSD5 drums plugin
