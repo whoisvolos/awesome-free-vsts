@@ -6,12 +6,11 @@ My humble collection of free VST plugins - instruments, synth, effects, sequence
 - [Surge XT](https://surge-synthesizer.github.io) - Наверное второй по функционалу после VCV Rack-а синт, сложный в управлении, но очень гибкий, огромная куча пресетов и скинов. Его модули, кстати, можно найти в библиотеке модулей VCV Rack.
 - [Odin 2](https://thewavewarden.com/pages/odin-2) - Топ 1 в номинации "простой, но мощный синтезатор". Много видов осцилляторов, легок в освоении.
 - [Helm](https://tytel.org/helm) - Не пробовал, но народ хвалит.
-- [Vital Audio](https://vital.audio/) - Отличный wavetable-синт с мощными возможностями именно модификации вейвтейблов, напоминает Serum.
-- U-he Tyrell N6
-- Love FI lite - лоуфайный саунд инструмент
-- Tal NoiseMaker - очень простой в управлении синт, по звуку напоминает Roland-ы
-- Dexed - FM (Yamaha DX7), можно даже патчи грузить от Ямахи и всяких ямахо-подобных DIY-синтов (вроде [PreenFM](https://ixox.fr/preenfm2))
-- Sonicbits Exakt (Lite) - FM (проще dexed намного)
+- [Vital Audio](https://vital.audio/) - Отличный wavetable-синт с мощными возможностями именно модификации вейвтейблов, напоминает [Serum](https://xferrecords.com/products/serum).
+- [Tal NoiseMaker](https://tal-software.com/products/tal-noisemaker) - Очень простой в управлении синт, по звуку напоминает Roland-ы.
+- [U-he Tyrell N6](https://u-he.com/products/tyrelln6) - Синт инспайред бай сами понимаете каким фильмом. Довольно просто, но чего-то специфичного я в нем не нашел. С другой стороны U-he фигню не делает.
+- [Dexed](https://asb2m10.github.io/dexed) - FM-синт по мотивам Yamaha DX7, можно даже патчи грузить от Ямахи и всяких ямахо-подобных DIY-синтов (вроде [PreenFM](https://ixox.fr/preenfm2)). Сложен, требует понимания FM-синтеза, но максимально гибок.
+- [Sonicbits Exakt Lite] - FM-синт для простых людей. Как Dexed, только проще.
 - OB-Xd - Оберхейм фряшный
 - Tunefish 4 (demoscene? weird)
 - Synth1 - минималистичный синт от японцев
@@ -20,7 +19,21 @@ My humble collection of free VST plugins - instruments, synth, effects, sequence
 - Voltage Modular Nucleus - a-la VCV Rack, не знаю зачем, но пусть будет
 - AAS Player - a-la Arturia Lab, but without controls
 - Pendulate - weird synth
-- Synplant 2 - AI-синт, оч странноватый. Берет семплы и эволвит их. Плюс умеет семпл раскладывать "обратно" в осциляторы, фильтры и проч (как disassembly)
+- Synplant 2 - AI-синт, оч странноватый. Берет семплы и эволвит их. Плюс умеет семпл раскладывать "обратно" в осцилляторы, фильтры и проч (как disassembly)
+
+## PIANOS
+
+### Пианины
+- Soundpaint
+- Claustrophobic Piano
+- Spindle
+- Glass Piano (Spitfire audio - lots of other plugins - LABS)
+- Autumn Piano
+- Winter Felt Piano
+
+### Разное
+- CollaB3 - Hammond B3
+- Love FI lite - лоуфайный саунд-инструмент
 
 ## DRUMS
 - SSD5 drums plugin
@@ -71,17 +84,3 @@ My humble collection of free VST plugins - instruments, synth, effects, sequence
 
 ## CHORD PROGRESSION TOOL:
 - Hooktheory Hookpad
-
-## PIANOS
-
-### Пианины
-- Soundpaint
-- Claustrophobic Piano
-- Spindle
-- Glass Piano (Spitfire audio - lots of other plugins - LABS)
-- Autumn Piano
-- Winter Felt Piano
-
-### Разное
-- CollaB3 - Hammond B3
-
