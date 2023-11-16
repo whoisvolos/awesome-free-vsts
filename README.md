@@ -8,23 +8,23 @@
 - [VCV Rack 2](https://vcvrack.com) - Топовый симулятор модульного синтезатора, 3000+ модулей, мало грузит процессор. Фактически может заменить ВСЕ синтезаторы, что описаны ниже, но необходимо понимание основ синтеза. Standalone-версия бесплатная, для версии VST придется докупить. На Youtube есть [автор](https://www.youtube.com/channel/UCuWKHSHTHMV_nVSeNH4gYAg), снимающий видосики по этому синту, там просто тонна обучающих видео.
 - [Surge XT](https://surge-synthesizer.github.io) - Наверное второй по функционалу после VCV Rack-а синт, сложный в управлении, но очень гибкий, огромная куча пресетов и даже скинов. Его модули, кстати, можно найти в библиотеке модулей VCV Rack.
 - [Odin 2](https://thewavewarden.com/pages/odin-2) - Топ 1 в номинации "простой, но мощный синтезатор". Много видов осцилляторов, легок в освоении.
-- [Helm](https://tytel.org/helm) - Не пробовал, но народ хвалит.
 - [Vital Audio](https://vital.audio/) - Отличный wavetable-синт с мощными возможностями именно модификации вейвтейблов, напоминает [Serum](https://xferrecords.com/products/serum).
+- [Helm](https://tytel.org/helm) - Не пробовал толком, звучит хорошо, похож на Vital, народ хвалит, брат жив.
 - [Tal NoiseMaker](https://tal-software.com/products/tal-noisemaker) - Очень простой в управлении синт, по звуку напоминает Roland-ы.
 - [U-he Tyrell N6](https://u-he.com/products/tyrelln6) - Синт инспайред бай сами понимаете [каким фильмом](https://www.imdb.com/title/tt0083658). Довольно простой, но чего-то специфичного я в нем не нашел. С другой стороны U-he фигню не делает.
 - [Dexed](https://asb2m10.github.io/dexed) - FM-синт по мотивам Yamaha DX7, можно даже патчи грузить от Ямахи и всяких ямахо-подобных DIY-синтов (вроде [PreenFM](https://ixox.fr/preenfm2)). Сложен, требует понимания FM-синтеза, но максимально гибок.
 - [Sonicbits Exakt Lite](https://www.sonicbits.com/exakt-lite.html) - FM-синт для простых людей. Как Dexed, только проще.
 - [OB-Xd](https://www.discodsp.com/obxd) - Оберхейм он и в Африке Оберхейм. [Van Halen не даст соврать](https://www.youtube.com/watch?v=SwYN7mTi6HM). Теплый плотный саунд из 80-ых.
-- Tunefish 4 (demoscene? weird)
-- Synth1 - минималистичный синт от японцев
+- [Tunefish 4](https://plugins4free.com/plugin/1836) - Якобы демосценный VST-синт, но я с трудом понимаю, какое это имеет отношение к демосцене, кроме как использование специфичных для ДС алгоритмов. Звучит интересно, сам синт довольно странный.
+- [Synth1](https://www.kvraudio.com/product/synth1-by-daichi-laboratory-ichiro-toda) - Минималистичный синт (запустится даже на картошке как сказал [Cameron](https://www.youtube.com/@VenusTheory)) от японцев. На мой взгляд звучит лоуфаешно и в стиле игр 90-х, но мне понравилось.
 - PG-8X - Juno
 - Zebralette
-- Voltage Modular Nucleus - a-la VCV Rack, не знаю зачем, но пусть будет
+- [Voltage Modular Nucleus](https://store.cherryaudio.com/bundles/voltage-modular-nucleus) - второй модульный синт в коллекции, попроще VCV Rack, модулей меньше, но иногда меньше - не значит хуже. Хороший GUI. По сылке в гугле пишет, что стоит 29,00 $, но на самом деле бесплатен.
 - AAS Player - a-la Arturia Lab, but without controls
 - Pendulate - weird synth
 - Synplant 2 - AI-синт, оч странноватый. Берет семплы и эволвит их. Плюс умеет семпл раскладывать "обратно" в осцилляторы, фильтры и проч (как disassembly)
 
-## PIANOS
+## Инструменты (семплированные звуки)
 
 ### Пианины
 - Soundpaint
